@@ -1,4 +1,4 @@
-# Recipe Recommender Model
+# Analytics Cup 2023/2024 - Recipe Recommender Model
 
 ## Introduction
 Welcome to the Analytics Cup 2023/2024 project for developing a recipe recommender model! In this project, we aim to predict whether a customer likes or dislikes a recipe based on various features such as dietary preferences, age, rating, cooking time, and macronutrient content. The ultimate goal is to improve the quality of recipe suggestions provided by LLMeals, a start-up leveraging large language models for recipe generation.
